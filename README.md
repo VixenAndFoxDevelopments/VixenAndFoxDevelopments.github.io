@@ -3,7 +3,6 @@
 
 <img src="https://github.com/VixenAndFoxDevelopments/VixenAndFoxDevelopments.github.io/assets/152870791/ac897502-5de9-4ae1-a67b-46f676cbba4b"  width="900" height="600" />
 
-#
 # About Me
 I am a Independant freelance Game and app developer for windows and andiod who can code in Python, Java Script, C#, and C++, I am based in South Africa and as such cant use geoblocked/US-only aplications. I am a hard working ethical man who will do everything in my power to make sure that your app or game is perfect for your use scenario.
 #
