@@ -15,7 +15,8 @@ I have made 3 mobile apps and games of my own ideas that have gone on to get 100
 #
 
 # how to contact me
-I am availible online for 
-<span style="color:red">-This is a sentence that should be red-</span>
-<span style="color:blue">=This is a sentence that should be blue=</span>
+I am availible online for consulting your querries and commisioning for work at "vixen.and.fox.developments@gmail.com" for simple querries try contact me on discord at "fuchs_verified" and will get back to you as soon as posible
+
+
+
 
