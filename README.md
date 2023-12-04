@@ -62,5 +62,8 @@ Again it realy deppends on how complex it is, it may just be a few days and it m
 
 - (https://github.com/VixenAndFoxDevelopments)
 
-#
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/foxdevelopments)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-smythe-06a44a2a3/)
 
