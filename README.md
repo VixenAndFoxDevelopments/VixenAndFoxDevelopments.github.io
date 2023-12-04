@@ -62,11 +62,5 @@ Again it realy deppends on how complex it is, it may just be a few days and it m
 
 - (https://github.com/VixenAndFoxDevelopments)
 
-
-## Badges
-
-
-[![MIT License](https://img.shields.io/badge/Sponsored%20by-Fuch's%20%20Awards-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/Awarded-3rd%20place%202022-silver.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/Awarded-2rd%20place%202023-yellow.svg)](http://www.gnu.org/licenses/agpl-3.0)
+#
 
