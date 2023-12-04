@@ -1,4 +1,3 @@
-
 # Vixen And Fox Developments
 
 <img src="https://github.com/VixenAndFoxDevelopments/VixenAndFoxDevelopments.github.io/assets/152870791/ac897502-5de9-4ae1-a67b-46f676cbba4b"  width="900" height="600" />
